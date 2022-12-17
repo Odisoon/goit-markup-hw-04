@@ -99,12 +99,12 @@ a {
 
 
 
-.social-media-link:hover {
-    background-color: #4D5AE5;
+.social-media-link:hover, .social-media-link:focus {
+    background-color: #31D0AA;;
     border-radius: 50%;
 }
 
-.studio {
+.studio {           
     font-weight: 800;
     font-size: 18px;
     line-height: 1.3;
