@@ -149,6 +149,12 @@ a {
     background-size: cover;
 }
 
+.board-up {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
 .end-header {
     background: #2E2F42;
     padding-top: 100px;
@@ -182,7 +188,7 @@ button:hover, button:focus {
     color: #FFFFFF;
 }
 
-.order-button {
+.order-button-open {
     background: #4D5AE5;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     font-weight: 600;
